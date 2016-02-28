@@ -16,5 +16,5 @@ declare module "react-github-corner" {
   }
   const GithubCorner:GithubCorner;
 
-  export = GithubCorner;
+  export default GithubCorner;
 }
