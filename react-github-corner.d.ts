@@ -14,7 +14,7 @@ declare module "react-github-corner" {
 
   interface GithubCorner extends React.ComponentClass<IGithubCornerProps> {
   }
-  const GithubCornerr:GithubCorner;
+  const GithubCorner:GithubCorner;
 
   export = GithubCorner;
 }
